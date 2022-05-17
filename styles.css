@@ -1,0 +1,19 @@
+*{
+    background-color:#ebedf0;
+}
+.section1{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+}
+.section1 > img{
+margin-top: 150px;
+}
+.para1{
+    font-size: 24px;
+    line-height: 28px;
+    width: 25%;
+    margin-top: 0%;
+    margin-left: 28px;
+}
