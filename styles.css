@@ -39,13 +39,35 @@ margin-top: 150px;
         justify-content: right;
 
 }
-.box1{
-    background-color: white;
+.box{
     width:396px;
-    height:315.83px;
+    height:315px;
     justify-content: center;
-    border-radius: 7px;
+    border-radius: 10px;
     margin-top:60px;
     font-family: inherit;
-
+    background-color: white;
+}
+.input{
+    padding: 14px 16px;
+    width: 95%;
+    height:55px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+    background: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+}
+.button{
+    height:40px
+}
+.button1{
+    width:95%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
