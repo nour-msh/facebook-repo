@@ -67,7 +67,16 @@ margin-top: 150px;
 }
 .button1{
     width:95%;
+    height:55px;
     margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
+    background-color: #1877f2;
+    color: white;
+    border-radius: 6px;
+    border-color: #1877f2;
+    font-size: 20px;
+    font-weight: bold;
+
+
 }
