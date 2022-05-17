@@ -63,7 +63,9 @@ margin-top: 150px;
     background-color: white;
 }
 .button{
-    height:40px
+    height:40px;
+    transition-duration: 0.4s;
+    cursor: pointer;
 }
 .button1{
     width:95%;
@@ -71,12 +73,26 @@ margin-top: 150px;
     margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
+    margin-bottom: 20px;
     background-color: #1877f2;
     color: white;
+    border:none;
     border-radius: 6px;
-    border-color: #1877f2;
     font-size: 20px;
     font-weight: bold;
 
+  }
 
+.button1:hover{
+    background-color: #1359b4;
+}
+a{
+    border-bottom: none;
+    font-size: 16px;
+    margin-left:30%;
+    text-decoration: none;
+}
+a:hover{
+    
+    text-decoration: underline;
 }
